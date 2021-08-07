@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "L432KC_SSD1331", "L432KC_SSD1331\L432KC_SSD1331.vgdbcmake", "{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{B9FEC080-B367-4CBC-B68B-BEC9C7D575E4}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101DDC06-1A90-4850-871E-D324EA1FEF13}
+	EndGlobalSection
+EndGlobal
