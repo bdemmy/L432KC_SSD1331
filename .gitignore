@@ -13,6 +13,19 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+Debug
+Release
+VisualGDB
+.visualgdb
+*.opensdf
+*.sdf
+*.suo
+*.old
+.vs
+VisualGDBCache
+CodeDB
+
+
 # Mono auto generated files
 mono_crash.*
 
