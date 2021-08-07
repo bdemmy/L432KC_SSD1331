@@ -17,6 +17,7 @@ Debug
 Release
 VisualGDB
 .visualgdb/
+L432KC_SSD1331/.visualgdb/
 *.opensdf
 *.sdf
 *.suo
