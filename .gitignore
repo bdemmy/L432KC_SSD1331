@@ -16,7 +16,7 @@
 Debug
 Release
 VisualGDB
-.visualgdb
+.visualgdb/
 *.opensdf
 *.sdf
 *.suo
